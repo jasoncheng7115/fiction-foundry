@@ -8,6 +8,10 @@ Canonical license URL:
 
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
+Official Traditional Chinese deed:
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hant
+
 Human-readable summary:
 
 - You may share the material in any medium or format.
@@ -20,6 +24,18 @@ The full legal code of the license controls:
 
 https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
+Official Traditional Chinese legal code:
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-hant
+
+繁體中文摘要：
+
+- 你可自由分享本素材。
+- 你必須標示作者、附上授權連結，並指出是否做過變更。
+- 你不得將本素材用於商業用途。
+- 你不得散布改作後的素材。
+- 你不得施加額外的法律或技術限制。
+
 Suggested attribution format:
 
-`Jason Cheng, <work title>, from this repository, licensed under CC BY-NC-ND 4.0`
+`Jason Cheng, from this repository, licensed under CC BY-NC-ND 4.0`
